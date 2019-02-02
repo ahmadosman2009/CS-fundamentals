@@ -38,7 +38,7 @@ Data structures and algorithms implementations and common questions with answers
         2. Tree Level Order Print 
         3. Trim a Binary Search Tree
         
-## CSimplememtation2
+## CSimplememtation3
 ## Section One:
     * Searching:
         1. Sequential search  

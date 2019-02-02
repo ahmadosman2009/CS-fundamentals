@@ -21,3 +21,19 @@ Data structures and algorithms implementations and common questions with answers
     * Questions:
         1. Balanced Parentheses Check
         2. Implement a Queue - Using Two Stacks
+
+## CSimplememtation2
+## Section One:
+    * Singly Linked List Implementation
+    * Double Linked List Implementation
+    * Questions:
+        1. Singly Linked List Cycle Check 
+        2. Linked List Reversal
+        3. Linked List Nth to Last Node 
+
+## Section Two:
+    *  Tree Implementation and Traversal
+    *  Qustions: 
+        1. Binary Search Tree Check
+        2. Tree Level Order Print 
+        3. Trim a Binary Search Tree
